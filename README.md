@@ -1,3 +1,7 @@
+<div align="center">
+<img src="assets/highway90s.gif" width="520" alt=""/>
+</div>
+
 ### mahan sigdel
 
 i build across embedded, systems, and web — with a soft spot for the low level.
@@ -15,3 +19,7 @@ electronics student, nepal. the rest of it lives at [mahansigdel.com.np](https:/
 <sub>rust · c · python · typescript · go — whatever the problem needs</sub>
 
 <sub>[website](https://mahansigdel.com.np) · [linkedin](https://linkedin.com/in/mahansigdel) · [instagram](https://instagram.com/byapaksigdel) · [email](mailto:sigdelmb123@gmail.com)</sub>
+
+<div align="center">
+<img src="assets/gardenwords.gif" height="190" alt=""/>&nbsp;&nbsp;<img src="assets/sunset.gif" height="190" alt=""/>
+</div>
